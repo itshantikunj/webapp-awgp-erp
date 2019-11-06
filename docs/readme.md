@@ -1,4 +1,4 @@
-# Foobar
+# SHANTIKUNJ (ALL WORLD GAYATRI PARIWAR)
 
 Foobar is a Python library for dealing with word pluralization.
 
